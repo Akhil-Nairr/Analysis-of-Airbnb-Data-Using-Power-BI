@@ -1,4 +1,5 @@
 **#Analysis-of-Airbnb-Data-Using-Power-BI**
+![image](https://github.com/Akhil-Nairr/Analysis-of-Airbnb-Data-Using-Power-BI/assets/145264970/cfdff4b0-bea8-4acf-a623-1b7dc6fcb295)
 
 **Data Source**: https://www.mavenanalytics.io/data-playground?search=airbnb
 
