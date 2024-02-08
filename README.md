@@ -6,7 +6,10 @@
 
 **Analyze global listing and reviewer data using powerful tools like PowerBI. Unearth hidden insights and gain a deeper understanding of Airbnb's operations. Imagine it as peering into Airbnb's data heart to unlock valuable knowledge.**
 
-**Dashboard:**  ![image](https://github.com/Akhil-Nairr/Analysis-of-Airbnb-Data-Using-Power-BI/assets/145264970/a202319e-2822-41bc-beb4-086d46de8a02)
+**Dashboard:** 
+
+![image](https://github.com/Akhil-Nairr/Analysis-of-Airbnb-Data-Using-Power-BI/assets/145264970/4b011fb1-03db-432f-b9a0-dbc8fba9418c)
+
 
 
 **Project Goals:**
